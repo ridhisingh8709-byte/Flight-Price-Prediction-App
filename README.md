@@ -22,7 +22,7 @@ This project uses a Random Forest machine learning model to estimate flight tick
 - Git
 - GitHub
 
-## 🤖 Machine Learning Model
+##  Machine Learning Model
 
 - Random Forest Regressor
 
