@@ -34,8 +34,18 @@ This project uses a Random Forest machine learning model to estimate flight tick
 - Machine learning-based prediction
 - Deployed as a live web application
 
+ ## App Screenshots
+
+### Application Interface
+
+![Flight Price Prediction App Interface](app-interface.png)
+
+### Prediction Result
+
+![Flight Price Prediction Result](prediction-result.png)
+
 ## Author
 
-Ridhi Singh)
+Ridhi Singh
 
 
