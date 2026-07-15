@@ -18,10 +18,13 @@ This project uses a Random Forest machine learning model to estimate flight tick
 - Pandas
 - NumPy
 - Scikit-learn
-- Random Forest Regressor
 - Streamlit
 - Git
 - GitHub
+
+## 🤖 Machine Learning Model
+
+- Random Forest Regressor
 
 ## Features
 
